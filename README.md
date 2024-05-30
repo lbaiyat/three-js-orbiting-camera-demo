@@ -48,6 +48,12 @@ npm run start;
 <div style="border-left: 1px solid #ccc; padding-left: 12px;" id="scene">
 <h2>Scene</h2>
 
+
+
+https://github.com/lbaiyat/three-js-orbiting-camera-demo/assets/30711209/a091f13a-8759-4d14-8f83-23cacc96a6d1
+
+
+
 </div>
 
 
